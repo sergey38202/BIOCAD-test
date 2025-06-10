@@ -33,7 +33,7 @@
 
 1. Клонировать репозиторий:
 ```
-git clone https://github.com/yourusername/biocad-test.git
+git clone https://github.com/sergey38202/BIOCAD-test.git
 cd biocad-test
 ```
 
